@@ -1,2 +1,5 @@
+language: java
 script:
     - ls
+    - javac Program.java
+    - java Program
